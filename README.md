@@ -39,9 +39,9 @@ These categories help the model to understand and predict varying levels of traf
 ## Data Collection and Preprocessing
 The dataset was compiled from various sensors and traffic monitoring systems installed across different zones. The raw data underwent several preprocessing steps, including:
 
-1: Data Cleaning: Removing any anomalies or incorrect entries.
-2: Normalization: Scaling the data to ensure uniformity.
-3: Feature Engineering: Creating new features like day of the week, weather condition codes, and traffic density levels.
+1: Data Cleaning: Removing any anomalies or incorrect entries.<br>
+2: Normalization: Scaling the data to ensure uniformity.<br>
+3: Feature Engineering: Creating new features like day of the week, weather condition codes, and traffic density levels.<br>
 
 ## Performance Insights
 ### 📍Accuracy using Random Forest:<br>
