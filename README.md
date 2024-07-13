@@ -8,16 +8,16 @@ A comprehensive research-based practice project where a robust model of traffic 
 
 📌Coded Day: Each day of the week is assigned a numerical code, simplifying the data analysis and model training processes. The coding is as follows:<br>
 
-Monday: 1
-Tuesday: 2
-Wednesday: 3
-Thursday: 4
-Friday: 5
-Saturday: 6
-Sunday: 7
+Monday: 1<br>
+Tuesday: 2<br>
+Wednesday: 3<br>
+Thursday: 4<br>
+Friday: 5<br>
+Saturday: 6<br>
+Sunday: 7<br>
 Using these codes, the model can easily interpret and use the day of the week as a feature, enhancing its ability to predict traffic based on the day.<br>
 
-📌Zone: This column contains the zone number where traffic data is collected. Each zone represents a specific geographic area with distinct traffic patterns. The weather conditions within each zone are encoded based on typical scenarios, including:
+📌Zone: This column contains the zone number where traffic data is collected. Each zone represents a specific geographic area with distinct traffic patterns. The weather conditions within each zone are encoded based on typical scenarios, including:<br>
 Humidity: Higher humidity can affect road conditions and visibility.<br>
 Mist: Can reduce visibility and influence driving speed.<br>
 Visibility: Directly impacts driving conditions and safety.<br>
@@ -39,7 +39,7 @@ These categories help the model to understand and predict varying levels of traf
 
 
 ## Data Collection and Preprocessing
-The dataset was compiled from various sensors and traffic monitoring systems installed across different zones. The raw data underwent several preprocessing steps, including:
+The dataset was compiled from various sensors and traffic monitoring systems installed across different zones. The raw data underwent several preprocessing steps, including:<br>
 
 1: Data Cleaning: Removing any anomalies or incorrect entries.<br>
 2: Normalization: Scaling the data to ensure uniformity.<br>
